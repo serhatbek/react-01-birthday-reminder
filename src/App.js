@@ -1,6 +1,5 @@
 import './App.scss';
 import { useState } from 'react';
-// import List from './List';
 import ListCard from './ListCard';
 import data from './data';
 
